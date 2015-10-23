@@ -1,0 +1,30 @@
+[ 
+    {
+        "name": "Jablanica ",
+        "wiki": "https://en.wikipedia.org/wiki/Jablanica_lake",
+        "img": "img/mountain_lakes/jablanicko.jpg"
+        
+    },
+    {
+        "name": "Treskavica ",
+        "wiki":"https://en.wikipedia.org/wiki/Bijelo_Lake,_Treskavica",
+        "img": "img/mountain_lakes/treskavica_veliko_jezero.jpg"
+       
+    },
+    {
+        "name": "Trnovac ",
+        "wiki":"https://en.wikipedia.org/wiki/Trnova%C4%8Dko_Lake",
+        "img": "img/mountain_lakes/trnovacko.jpg"
+       
+    },
+    {
+        "name": "Prokosko ",
+        "wiki":"https://en.wikipedia.org/wiki/Bora%C4%8Dko_Lake",
+        "img": "img/mountain_lakes/prokosko.jpg"
+      
+    }
+    
+   
+    
+    
+  ]
