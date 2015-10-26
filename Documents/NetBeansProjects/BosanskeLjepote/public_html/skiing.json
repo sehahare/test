@@ -1,0 +1,33 @@
+[ 
+  
+     {
+        "name": "Bjelasnica",
+        "wiki": "https://en.wikipedia.org/wiki/Bjela%C5%A1nica",
+        "img": "img/skiing/bjelasnica_1.jpg"
+        
+    },
+    
+     {
+        "name": "Vlasic",
+        "wiki": "https://en.wikipedia.org/wiki/Vla%C5%A1i%C4%87_(Bosnian_mountain)",
+        "img": "img/skiing/vlasic_1.jpg"
+        
+    },
+    
+     {
+        "name": "Jahorina",
+        "wiki": "https://en.wikipedia.org/wiki/Jahorina",
+        "img": "img/skiing/jahorina_1.jpg"
+        
+    },
+    
+      {
+        "name": "Igman",
+        "wiki": "https://en.wikipedia.org/wiki/Igman",
+        "img": "img/skiing/igman_1.jpg"
+        
+    }
+    
+    
+    
+   ]

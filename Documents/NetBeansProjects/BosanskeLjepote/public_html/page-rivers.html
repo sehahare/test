@@ -1,0 +1,24 @@
+<h1>Amazing Lakes and Rivers</h1>
+
+<div class = "menu">
+<a href="#main" class="btn btn-danger btn-lg">Home</a>
+<a href="#mountains" class="btn btn-success btn-lg">Amazing Mountains</a>
+<a href="#contact" class="btn btn-danger btn-lg">Contact</a>
+</div>
+
+
+      <div ng-repeat="river in rivers">
+     
+             
+       <div class="col-sm-3">
+         
+           <div class="river_name"> {{river.name}} </div>
+           
+         <a href="{{river.wiki}}"> <img ng-src={{river.img}} class="img-rivers" /> </a>
+        
+           
+       </div>
+           
+
+ </div>
+
