@@ -1,0 +1,33 @@
+[ 
+  
+     {
+        "name": "Bjelasnica",
+        "wiki": "https://en.wikipedia.org/wiki/Jablanica_lake",
+        "img": "img/skiing/bjelasnica_1.jpg"
+        
+    },
+    
+     {
+        "name": "Vlasic",
+        "wiki": "https://en.wikipedia.org/wiki/Jablanica_lake",
+        "img": "img/skiing/vlasic_1.jpg"
+        
+    },
+    
+     {
+        "name": "Jahorina",
+        "wiki": "https://en.wikipedia.org/wiki/Jablanica_lake",
+        "img": "img/skiing/jahorina_1.jpg"
+        
+    },
+    
+      {
+        "name": "Igman",
+        "wiki": "https://en.wikipedia.org/wiki/Jablanica_lake",
+        "img": "img/skiing/igman_1.jpg"
+        
+    }
+    
+    
+    
+   ]

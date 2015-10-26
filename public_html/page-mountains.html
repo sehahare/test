@@ -1,0 +1,41 @@
+ 
+
+<div class="menu_mountain">
+<a href="#main" class="btn btn-danger btn-lg">Home</a>
+<a href="#mountains" class="btn btn-success btn-lg">Amazing Mountains</a>
+<a href="#contact" class="btn btn-danger btn-lg">Contact</a>
+</div>
+
+    <a class="btn btn-primary" href="#mountains" ng-click="mountain_skiing = !mountain_skiing" ng-class="{ active: mountain_skiing }">Best Skiing Vacations </a>
+    <a class="btn btn-success" href="#mountains" ng-click="mountain_lake = !mountain_lake" ng-class="{ active: mountain_lake }">Mountain lakes </a>
+
+<div class="row">
+    <div class="col-xs-6">
+    
+      <div class="mountains" ng-show="mountain_skiing">
+         <div ng-repeat="mount in skiing">
+              <div class="col-sm-3">
+                <div class="mountain_name2"> {{mount.name}} </div>     
+                <a href="{{lake.wiki}}"><img ng-src={{mount.img}} class="img-mountain"></a>
+              </div>
+        </div>
+     </div>
+    </div>
+    
+    <div class="col-xs-6">
+    
+      <div class="mountains" ng-show="mountain_lake">
+        <div ng-repeat="mountain in mountains">
+            <div class="col-sm-3">
+              <div class="mountain_name"> {{mountain.name}} </div>
+              <a href="{{lake.wiki}}"> <img ng-src={{mountain.img}} class="img-mountain2" /> </a>
+            </div>
+        </div>
+      </div>
+    </div>  
+    
+
+
+
+</div>
+ 

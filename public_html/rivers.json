@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Vodopad Kocusa",
+        "wiki": "https://en.wikipedia.org/wiki/Jablanica_lake",
+        "img": "img/rivers/vodopad_kocusa.jpg"
+    },
+    {
+        "name": "Neretva",
+        "wiki":"https://en.wikipedia.org/wiki/Bijelo_Lake,_Treskavica",
+        "img": "img/rivers/neretva.jpg"
+    },
+    {
+        "name": "Una",
+        "wiki":"https://en.wikipedia.org/wiki/Trnova%C4%8Dko_Lake",
+        "img": "img/rivers/una.jpg"
+    },
+    {
+        "name": "Vodopad Kravice",
+        "wiki":"https://en.wikipedia.org/wiki/Bora%C4%8Dko_Lake",
+        "img": "img/rivers/vodopad_kravice.jpg"
+    },
+    
+     {
+        "name": "Strbacki buk",
+        "wiki":"https://en.wikipedia.org/wiki/Bora%C4%8Dko_Lake",
+        "img": "img/rivers/strbacki_buk.jpg"
+    }
+    
+    
+   ]
